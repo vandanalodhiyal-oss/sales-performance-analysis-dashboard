@@ -28,3 +28,20 @@ An interactive, end-to-end 5-Page Power BI Dashboard designed to analyze retail 
 
 ### 5. Grand Data Audit Table
 * Includes a 100% full-width tabular ledger for end-users and managers to audit line-item transactions row-by-row.
+
+##  Complete Dashboard Interface (All Pages)
+
+### Page 1: Enterprise Sales Overview
+![Overview Page](Overview_Sales.png.jpeg)
+
+### Page 2: Product Performance Insights
+![Product Insights](Product_Sales.png.jpeg)
+
+### Page 3: Customer Details
+![Customer Insights](Customer_Sales.png.jpeg)
+
+### Page 4: Transaction & Payment Mode Analysis
+![Payment Insights](Payments_Sales.png.jpeg)
+
+### Page 5: Grand Data Audit Table
+![Details Page](Details_Sales.png.jpeg)
